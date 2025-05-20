@@ -50,6 +50,7 @@ sections:
       type: ImageBlock
       url: /images/automationbw.jpg
       altText: about_image
+      caption: About
     styles:
       self:
         height: auto
