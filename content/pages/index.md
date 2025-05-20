@@ -15,9 +15,11 @@ sections:
     backgroundSize: full
     title: I'm Oswin Losper
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hi, name is Oswin, most of my time is being spend on doing automation
+      testing using TestCafe or Cypress automation framework. Before this I did
+      testing on a small scale when I was working as a senior designer & team
+      lead.In my spare time I enjoy watching Rugby, Football, American Football,
+      hanging out with friends and do some gaming.
     styles:
       self:
         height: auto
