@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: This is a blog post titleWHY I CHOSE TESTCAFE
+title: WHY I CHOSE TESTCAFE
 date: '2021-09-28'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
