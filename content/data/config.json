@@ -42,7 +42,8 @@
                 "altText": "Dev",
                 "label": "Dev",
                 "url": "https://dev.to/oswinlosper",
-                "icon": "github"
+                "icon": "github",
+                "elementId": "dev_icon"
             }
         ],
         "styles": {
