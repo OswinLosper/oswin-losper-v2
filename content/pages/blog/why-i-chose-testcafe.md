@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe-NEW.jpg
   altText: why testacafe
-  caption: Caption of the image
+  caption: why testacafe
   elementId: ''
 media:
   type: ImageBlock
