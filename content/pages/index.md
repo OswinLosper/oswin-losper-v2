@@ -75,4 +75,5 @@ sections:
         textAlign: left
         borderRadius: xx-small
     subtitle: Recent Posts
+    title: Recent Posts
 ---
