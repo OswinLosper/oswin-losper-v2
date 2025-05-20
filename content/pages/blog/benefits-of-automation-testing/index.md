@@ -3,9 +3,9 @@ type: PostLayout
 title: BENEFITS OF AUTOMATION
 date: '2021-09-16'
 excerpt: >-
-  Web applications today are getting more complex on a day to day basis.
-  Stakeholders and clients have much bigger expectations of what web
-  applications need to do these days.
+  Web applications today are getting more complex daily. Stakeholders and
+  clients have much bigger expectations of what web applications need to do
+  these days.
 featuredImage:
   type: ImageBlock
   url: /images/benefits.jpg
