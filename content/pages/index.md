@@ -74,6 +74,6 @@ sections:
           - pr-1
         textAlign: left
         borderRadius: xx-small
-    subtitle: Recent Posts
+    subtitle: ''
     title: Recent Posts
 ---
