@@ -51,6 +51,7 @@ sections:
       url: /images/automationbw.jpg
       altText: about_image
       caption: About
+      elementId: about_image
     styles:
       self:
         height: auto
