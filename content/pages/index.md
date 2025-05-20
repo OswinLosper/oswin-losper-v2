@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I'm Oswin Losper
-    subtitle: ''
+    subtitle: QA Engineer | istqb Certified
     styles:
       self:
         height: auto
