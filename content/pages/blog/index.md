@@ -39,7 +39,7 @@ topSections:
         height: auto
         width: narrow
         padding:
-          - pt-1
+          - pt-4
           - pb-1
           - pl-1
           - pr-1
