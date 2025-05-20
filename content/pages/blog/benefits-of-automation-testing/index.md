@@ -35,7 +35,7 @@ bottomSections:
         width: narrow
         padding:
           - pt-0
-          - pb-1
+          - pb-0
           - pl-1
           - pr-1
         flexDirection: row
