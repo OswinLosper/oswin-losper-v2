@@ -13,7 +13,7 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: false
-colors: colors-b
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
