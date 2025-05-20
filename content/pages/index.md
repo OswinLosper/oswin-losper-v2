@@ -46,7 +46,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ''
+        elementId: about
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
