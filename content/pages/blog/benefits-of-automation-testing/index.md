@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: BENEFITS OF AUTOMATION TESTING
+title: BENEFITS OF AUTOMATION
 date: '2021-09-16'
 excerpt: >-
   Web applications today are getting more complex on a day to day basis.
