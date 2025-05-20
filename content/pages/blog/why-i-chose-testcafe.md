@@ -6,7 +6,7 @@ excerpt: Choosing a framework to run automation test on can be tricky.
 featuredImage:
   type: ImageBlock
   url: /images/whyTestCafe-NEW.jpg
-  altText: Post thumbnail image
+  altText: why testacafe
   caption: Caption of the image
   elementId: ''
 media:
