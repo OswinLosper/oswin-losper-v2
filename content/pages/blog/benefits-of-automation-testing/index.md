@@ -35,7 +35,7 @@ bottomSections:
         width: wide
         padding:
           - pt-1
-          - pb-48
+          - pb-1
           - pl-4
           - pr-4
         flexDirection: row
