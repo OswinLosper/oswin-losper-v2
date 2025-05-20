@@ -2,9 +2,7 @@
 type: PostLayout
 title: WHY I CHOSE TESTCAFE
 date: '2021-09-28'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Choosing a framework to run automation test on can be tricky.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
