@@ -23,9 +23,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: ''
     subtitle: >-
       Web applications today are getting more complex on a day to day basis.
       Stakeholders and clients have much bigger expectations of what web
