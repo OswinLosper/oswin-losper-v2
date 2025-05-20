@@ -14,9 +14,6 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      I began my career as a digital designer and later transitioned to testing.
-
-
       Currently, I am a full-time Senior QA Automation Engineer at Loop. Loop
       develops solutions for businesses to optimize their delivery operations
       through optimized routes, real-time insights, and exceptional customer
