@@ -62,7 +62,7 @@ sections:
           - pt-1
           - pb-1
           - pl-1
-          - pr-4
+          - pr-1
         textAlign: left
     subtitle: Projects
   - type: FeaturedPostsSection
