@@ -42,7 +42,7 @@ sections:
         label: WANT TO KNOW MORE?
         altText: ''
         url: /about
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
