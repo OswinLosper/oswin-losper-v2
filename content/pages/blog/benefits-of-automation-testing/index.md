@@ -17,7 +17,7 @@ colors: colors-b
 bottomSections:
   - type: HeroSection
     title: ''
-    subtitle: dwc
+    subtitle: ''
     actions: []
     colors: colors-f
     backgroundSize: full
