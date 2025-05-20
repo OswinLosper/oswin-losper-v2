@@ -41,7 +41,7 @@ topSections:
         padding:
           - pt-1
           - pb-1
-          - pl-4
+          - pl-1
           - pr-4
         flexDirection: row
         textAlign: left
