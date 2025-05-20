@@ -55,6 +55,7 @@ sections:
         label: See all Posts
         url: /blogs
         iconPosition: left
+        elementId: see_all
     showDate: false
     showDescription: true
     showFeaturedImage: true
