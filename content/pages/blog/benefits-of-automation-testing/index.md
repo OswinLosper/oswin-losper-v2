@@ -21,7 +21,7 @@ bottomSections:
     actions: []
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+    elementId: blog_content
     styles:
       self:
         height: auto
