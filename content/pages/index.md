@@ -53,7 +53,7 @@ sections:
     actions:
       - type: Link
         label: See all Posts
-        url: /projects
+        url: /blogs
     showDate: false
     showDescription: true
     showFeaturedImage: true
