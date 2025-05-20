@@ -35,6 +35,17 @@ sections:
         iconPosition: right
         style: primary
         elementId: about
+    text: >
+      Hi, name is Oswin, most of my time is being spend on doing automation
+      testing using TestCafe or Cypress automation framework. 
+
+
+      Before this I did testing on a small scale when I was working as a senior
+      designer & team lead.
+
+
+      In my spare time I enjoy watching Rugby, Football, American Football,
+      hanging out with friends and do some gaming.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
