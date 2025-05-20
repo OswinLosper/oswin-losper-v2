@@ -54,6 +54,7 @@ sections:
       - type: Link
         label: See all Posts
         url: /blogs
+        iconPosition: left
     showDate: false
     showDescription: true
     showFeaturedImage: true
