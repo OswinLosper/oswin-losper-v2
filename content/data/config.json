@@ -55,7 +55,7 @@
             "url": "/images/LOGO Black.png",
             "altText": "Oswin",
             "caption": "Oswin",
-            "elementId": ""
+            "elementId": "logo"
         }
     },
     "footer": {
