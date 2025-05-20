@@ -16,7 +16,7 @@ addTitleSuffix: false
 colors: colors-b
 bottomSections:
   - type: HeroSection
-    title: dcd
+    title: ''
     subtitle: dwc
     actions: []
     colors: colors-f
