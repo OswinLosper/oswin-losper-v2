@@ -59,7 +59,7 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-6
+          - pt-8
           - pb-1
           - pl-1
           - pr-1
