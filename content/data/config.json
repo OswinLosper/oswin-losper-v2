@@ -6,17 +6,22 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "Personal",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Home",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "About",
+                "url": "/info"
             },
             {
                 "type": "Link",
@@ -27,23 +32,39 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/oswin-losper-21520330/",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "Dev",
+                "label": "Dev",
+                "url": "https://dev.to/oswinlosper",
+                "icon": "github",
+                "elementId": "dev_icon"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://oswinlosper.medium.com/",
+                "icon": "bluesky",
+                "elementId": ""
             }
         ],
         "styles": {
             "self": {
-                "width": "full"
+                "width": "narrow"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/LOGO Black.png",
+            "altText": "Oswin",
+            "caption": "Oswin",
+            "elementId": "logo"
         }
     },
     "footer": {
@@ -74,16 +95,6 @@
                 "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
-        },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
             "self": {
