@@ -10,16 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "Home",
                 "altText": "",
                 "url": "/",
@@ -27,6 +17,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/about"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
             }
         ],
         "socialLinks": [
