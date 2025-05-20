@@ -14,37 +14,34 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      I started my career as a digital designer. I made the decision to make a
-      career change to testing.
+      I began my career as a digital designer and later transitioned to testing.
 
 
-      Currently, Im a full time Senior QA Automation Engineer at Loop.
+      Currently, I am a full-time Senior QA Automation Engineer at Loop. Loop
+      develops solutions for businesses to optimize their delivery operations
+      through optimized routes, real-time insights, and exceptional customer
+      experiences.
 
 
-      We building solutions for businesses to transform their delivery
-      operations with optimised routes, real-time insights, and exceptional
-      customer experience.
+      Prior to Loop, I worked at 20fifty, a company that specializes in modern
+      application development and serverless cloud computing. Combining human
+      ingenuity with intelligent technology, 20fifty consistently delivers
+      intelligent, innovative, and scalable solutions that deliver tangible
+      results.
 
 
-      Before Loop, I worked at 20fifty a company building solutions or thinking
-      about the impact that Cloud Computing and AI. 20fifty specialises in
-      modern application development and serverless cloud computing. Combining
-      human ingenuity + intelligent technology we consistently deliver
-      intelligent, innovative and scalable solutions that work.
+      Before 20fifty, I worked at Wyzetalk, a company that specializes in a
+      digital employee solution that unlocks the potential of an entire
+      workforce. Before Wyzetalk, I worked for iPlatform, a company that
+      specializes in insurance management software.
 
 
-      Before 20fifty I worked at Wyzetalk, a company that specialising in a
-      digital employee solution that unleashes the potential of an entire
-      workforce, before joining Wyzetalk, I worked for iPlatform, a company
-      specialising in, insurance management software.
+      Additionally, I held a full-time senior designer position at bOnline Ltd.,
+      a UK-based company that builds small to medium-sized business websites.
 
 
-      I also worked as a full time senior designer at bOnline Ltd, a UK based
-      company, building small to medium sized business websites.
-
-
-      In my spare time I play golf and enjoy watching Rugby, Football, American
-      Football, hanging out with friends and do some gaming.
+      In my free time, I play golf, enjoy watching rugby, football, and American
+      football, socialize with friends, and engage in gaming.
     media:
       type: ImageBlock
       url: /images/automationbw.jpg
