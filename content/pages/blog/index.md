@@ -42,7 +42,7 @@ topSections:
           - pt-1
           - pb-1
           - pl-1
-          - pr-4
+          - pr-1
         flexDirection: row
         textAlign: left
 ---
