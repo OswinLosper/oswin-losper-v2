@@ -13,12 +13,39 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      I started my career as a digital designer. I made the decision to make a
+      career change to testing.
 
+
+      Currently, Im a full time Senior QA Automation Engineer at Loop.
+
+
+      We building solutions for businesses to transform their delivery
+      operations with optimised routes, real-time insights, and exceptional
+      customer experience.
+
+
+      Before Loop, I worked at 20fifty a company building solutions or thinking
+      about the impact that Cloud Computing and AI has and will continue to have
+      on the world and society. 20fifty specialises in modern application
+      development and serverless cloud computing. Combining human ingenuity +
+      intelligent technology we consistently deliver intelligent, innovative and
+      scalable solutions that work.
+
+
+      Before 20fifty I worked at Wyzetalk, a company that specialising in a
+      digital employee solution that unleashes the potential of an entire
+      workforce, before joining Wyzetalk, I worked for iPlatform, a company
+      specialising in, insurance management software.
+
+
+      I also worked as a full time senior designer at bOnline Ltd, a UK based
+      company, building small to medium sized business websites.
+
+
+      In my spare time I play golf and enjoy watching Rugby, Football, American
+      Football, hanging out with friends and do some gaming.
     media:
       type: ImageBlock
       url: /images/about.jpg
