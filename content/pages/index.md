@@ -64,6 +64,7 @@ sections:
           - pl-1
           - pr-1
         textAlign: left
+        borderRadius: xx-small
     subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
