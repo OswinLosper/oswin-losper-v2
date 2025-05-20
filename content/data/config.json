@@ -44,6 +44,14 @@
                 "url": "https://dev.to/oswinlosper",
                 "icon": "github",
                 "elementId": "dev_icon"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://oswinlosper.medium.com/",
+                "icon": "bluesky",
+                "elementId": ""
             }
         ],
         "styles": {
