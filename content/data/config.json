@@ -20,7 +20,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Home",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
