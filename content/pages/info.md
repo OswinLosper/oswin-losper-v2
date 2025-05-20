@@ -27,11 +27,10 @@ sections:
 
 
       Before Loop, I worked at 20fifty a company building solutions or thinking
-      about the impact that Cloud Computing and AI has and will continue to have
-      on the world and society. 20fifty specialises in modern application
-      development and serverless cloud computing. Combining human ingenuity +
-      intelligent technology we consistently deliver intelligent, innovative and
-      scalable solutions that work.
+      about the impact that Cloud Computing and AI. 20fifty specialises in
+      modern application development and serverless cloud computing. Combining
+      human ingenuity + intelligent technology we consistently deliver
+      intelligent, innovative and scalable solutions that work.
 
 
       Before 20fifty I worked at Wyzetalk, a company that specialising in a
