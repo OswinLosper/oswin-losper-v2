@@ -8,7 +8,7 @@ excerpt: >-
   applications need to do these days.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/benefits.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
