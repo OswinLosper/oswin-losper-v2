@@ -40,7 +40,7 @@ topSections:
         width: narrow
         padding:
           - pt-1
-          - pb-16
+          - pb-1
           - pl-4
           - pr-4
         flexDirection: row
