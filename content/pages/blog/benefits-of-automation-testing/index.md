@@ -13,7 +13,7 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: false
-colors: colors-a
+colors: colors-b
 bottomSections:
   - type: HeroSection
     title: ''
