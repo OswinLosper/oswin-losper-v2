@@ -49,7 +49,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/automationbw.jpg
-      altText: Hero image
+      altText: about_image
     styles:
       self:
         height: auto
