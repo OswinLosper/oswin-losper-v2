@@ -32,7 +32,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-1
           - pb-1
