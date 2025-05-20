@@ -22,9 +22,7 @@ sections:
 
       Prior to Loop, I worked at 20fifty, a company that specializes in modern
       application development and serverless cloud computing. Combining human
-      ingenuity with intelligent technology, 20fifty consistently delivers
-      intelligent, innovative, and scalable solutions that deliver tangible
-      results.
+      ingenuity with intelligent technology.
 
 
       Before 20fifty, I worked at Wyzetalk, a company that specializes in a
