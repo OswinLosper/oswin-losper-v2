@@ -48,7 +48,7 @@ sections:
       Football, hanging out with friends and do some gaming.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/automationbw.jpg
       altText: Hero image
     styles:
       self:
