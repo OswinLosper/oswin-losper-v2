@@ -42,15 +42,15 @@
                 "altText": "Dev",
                 "label": "Dev",
                 "url": "https://dev.to/oswinlosper",
-                "icon": "github",
+                "icon": "dev",
                 "elementId": "dev_icon"
             },
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
+                "label": "Medium",
+                "altText": "Medium",
                 "url": "https://oswinlosper.medium.com/",
-                "icon": "bluesky",
+                "icon": "medium",
                 "elementId": ""
             }
         ],
@@ -78,12 +78,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
@@ -91,8 +85,8 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/OswinLosper",
+                "altText": "Oswin Losper on GitHub"
             }
         ],
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",

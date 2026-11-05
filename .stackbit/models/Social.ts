@@ -49,6 +49,10 @@ export const SocialModel: Model = {
                     value: 'bluesky'
                 },
                 {
+                    label: 'DEV',
+                    value: 'dev'
+                },
+                {
                     label: 'Facebook',
                     value: 'facebook'
                 },
@@ -63,6 +67,10 @@ export const SocialModel: Model = {
                 {
                     label: 'LinkedIn',
                     value: 'linkedin'
+                },
+                {
+                    label: 'Medium',
+                    value: 'medium'
                 },
                 {
                     label: 'Reddit',

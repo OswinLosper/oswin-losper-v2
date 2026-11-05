@@ -9,12 +9,14 @@ import Bluesky from './bluesky';
 import Cart from './cart';
 import ChevronLeft from './chevron-left';
 import ChevronRight from './chevron-right';
+import Dev from './dev';
 import Facebook from './facebook';
 import GitHub from './github';
 import GooglePlay from './google-play';
 import Instagram from './instagram';
 import LinkedIn from './linkedin';
 import Mail from './mail';
+import Medium from './medium';
 import Play from './play';
 import PlayCircle from './play-circle';
 import Reddit from './reddit';
@@ -35,12 +37,14 @@ export const iconMap = {
     cart: Cart,
     chevronLeft: ChevronLeft,
     chevronRight: ChevronRight,
+    dev: Dev,
     facebook: Facebook,
     github: GitHub,
     googlePlay: GooglePlay,
     instagram: Instagram,
     linkedin: LinkedIn,
     mail: Mail,
+    medium: Medium,
     play: Play,
     playCircle: PlayCircle,
     reddit: Reddit,
