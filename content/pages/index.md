@@ -47,23 +47,21 @@ sections:
       In my spare time I enjoy watching Rugby, Football, American Football,
       hanging out with friends and do some gaming.
   - colors: colors-f
-    type: FeaturedProjectsSection
+    type: RecentPostsSection
     elementId: ''
     actions:
       - type: Link
         label: See all Posts
-        url: /blogs
+        url: /blog
         iconPosition: left
         elementId: see_all
+    recentCount: 3
     showDate: false
-    showDescription: true
+    showAuthor: false
+    showExcerpt: true
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
