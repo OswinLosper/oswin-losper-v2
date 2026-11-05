@@ -10,6 +10,7 @@ import Section from '../Section';
 export default function PostFeedSection(props) {
     const { elementId, colors, variant = 'variant-a', title, subtitle, actions = [], styles = {}, ...rest } = props;
     const sectionAlign = styles.self?.textAlign ?? 'left';
+    const actionsAlign = styles.actions?.textAlign ?? sectionAlign;
     return (
         <Section elementId={elementId} colors={colors} styles={styles.self}>
             {title && (
@@ -38,7 +39,7 @@ export default function PostFeedSection(props) {
                 <div
                     className={classNames(
                         'flex flex-wrap items-center gap-4 mt-10',
-                        sectionAlign === 'center' ? 'justify-center' : 'justify-end'
+                        actionsAlign === 'center' ? 'justify-center' : 'justify-end'
                     )}
                 >
                     {actions.map((action, index) => (
