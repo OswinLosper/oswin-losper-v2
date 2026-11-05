@@ -29,7 +29,7 @@ sections:
       - type: Button
         label: WANT TO KNOW MORE?
         altText: ''
-        url: /about
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right
