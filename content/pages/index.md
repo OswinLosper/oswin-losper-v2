@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I'm Oswin Losper
-    subtitle: QA Engineer | istqb Certified
+    subtitle: QA Lead | ISTQB Certified
     styles:
       self:
         height: auto
@@ -36,16 +36,17 @@ sections:
         style: primary
         elementId: about
     text: >
-      Hi, name is Oswin, most of my time is being spend on doing automation
-      testing using TestCafe or Cypress automation framework. 
+      Hi, my name is Oswin. I'm a QA Lead at Loop, and most of my time goes into
+      automation testing with Playwright, TestCafe, Cypress and Maestro
+      (mobile).
 
 
-      Before this I did testing on a small scale when I was working as a senior
-      designer & team lead.
+      I started out as a senior designer and team lead, so I bring an eye for
+      detail and the people side of the job into testing.
 
 
-      In my spare time I enjoy watching Rugby, Football, American Football,
-      hanging out with friends and do some gaming.
+      In my spare time I play golf, watch rugby, football and American football,
+      hang out with friends and do some gaming.
   - colors: colors-f
     type: RecentPostsSection
     elementId: ''
