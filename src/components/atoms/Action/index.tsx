@@ -18,6 +18,8 @@ export default function Action(props) {
         style = 'primary'
     } = props;
     const IconComponent = icon ? iconMap[icon] : null;
+    // Links to other sites open in a new tab
+    const external = /^https?:\/\//.test(url);
 
     const baseClasses = [
         'relative inline-flex items-center justify-center gap-1.5 text-center text-lg leading-tight no-underline transition lg:whitespace-nowrap'
@@ -32,7 +34,14 @@ export default function Action(props) {
 
     return (
         <Annotated content={props}>
-            <Link href={url} aria-label={altText} id={elementId || null} className={classNames(baseClasses, className)}>
+            <Link
+                href={url}
+                aria-label={altText}
+                id={elementId || null}
+                target={external ? '_blank' : undefined}
+                rel={external ? 'noopener noreferrer' : undefined}
+                className={classNames(baseClasses, className)}
+            >
                 {showIcon && IconComponent && iconPosition === 'left' && (
                     <IconComponent className="fill-current h-icon w-icon" />
                 )}
