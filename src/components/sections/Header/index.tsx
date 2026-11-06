@@ -174,8 +174,8 @@ function SiteLogoLink({ title, isTitleVisible, logo }) {
     }
     return (
         <div className="flex items-center border-r border-current">
-            <Link href="/" className="flex items-center h-full gap-2 p-4 link-fill">
-                {logo && <ImageBlock {...logo} className="max-h-12" />}
+            <Link href="/" className="group flex items-center h-full gap-2 p-4 link-fill">
+                {logo && <ImageBlock {...logo} className="max-h-12 transition-all group-hover:invert" />}
                 {title && isTitleVisible && <span className="text-base tracking-widest uppercase">{title}</span>}
             </Link>
         </div>
