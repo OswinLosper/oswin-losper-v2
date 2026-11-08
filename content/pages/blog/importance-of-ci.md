@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/continuous-integration.jpg
   altText: Continuous integration
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---

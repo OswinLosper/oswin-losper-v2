@@ -4,3 +4,15 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+# The About page moved from /info to /about
+[[redirects]]
+  from = "/info/*"
+  to = "/about/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/info"
+  to = "/about/"
+  status = 301
+  force = true

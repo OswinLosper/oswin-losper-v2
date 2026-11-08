@@ -1,11 +1,15 @@
 ---
 type: PageLayout
 title: About
+metaDescription: >-
+  Oswin Losper is a QA Lead at Loop, previously at 20fifty, Wyzetalk and
+  iPlatform, with a background as a senior designer.
 colors: colors-b
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
+    title: About
     text: >
       Currently, I am a full-time QA Lead at Loop. Loop
       develops solutions for businesses to optimize their delivery operations

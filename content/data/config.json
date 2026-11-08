@@ -1,6 +1,15 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/favicon.png",
+    "titleSuffix": "Oswin Losper",
+    "defaultSocialImage": "/images/automationbw.jpg",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "twitter:card",
+            "content": "summary_large_image"
+        }
+    ],
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -21,7 +30,7 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/info"
+                "url": "/about"
             },
             {
                 "type": "Link",
@@ -72,8 +81,8 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
+                "label": "About",
+                "url": "/about",
                 "altText": ""
             },
             {

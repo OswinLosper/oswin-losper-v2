@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/become-an-automation-test-engineer.png
   altText: Becoming an automation test engineer
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---

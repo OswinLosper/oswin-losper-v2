@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/challenges-of-automation-testing.jpg
   altText: Challenges of automation testing
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---

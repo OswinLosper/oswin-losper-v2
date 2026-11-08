@@ -10,9 +10,9 @@ featuredImage:
   type: ImageBlock
   url: /images/benefits.jpg
   altText: Benefits of automation testing
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
-socialImage: /images/benefits copy.jpg
+socialImage: /images/benefits-share.jpg
 author: content/data/team/Oswin.json
 ---
 

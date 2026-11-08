@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/maintaining-automation-tests.jpg
   altText: Maintaining automation tests
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---

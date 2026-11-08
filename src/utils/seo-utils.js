@@ -10,6 +10,7 @@ export function seoGenerateMetaTags(page, site) {
     pageMetaTags = {
         ...pageMetaTags,
         ...(seoGenerateTitle(page, site) && { 'og:title': seoGenerateTitle(page, site) }),
+        ...(seoGenerateMetaDescription(page, site) && { 'og:description': seoGenerateMetaDescription(page, site) }),
         ...(seoGenerateOgImage(page, site) && { 'og:image': seoGenerateOgImage(page, site) })
     };
 

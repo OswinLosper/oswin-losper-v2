@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/cross-browser-testing.jpg
   altText: Cross browser testing
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---

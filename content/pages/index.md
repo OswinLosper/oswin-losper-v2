@@ -1,6 +1,11 @@
 ---
 type: PageLayout
 title: Home
+metaTitle: Oswin Losper - QA Lead
+addTitleSuffix: false
+metaDescription: >-
+  Oswin Losper is a QA Lead at Loop, working in automation testing with
+  Playwright, TestCafe, Cypress and Maestro.
 colors: colors-b
 sections:
   - elementId: ''
@@ -29,7 +34,7 @@ sections:
       - type: Button
         label: WANT TO KNOW MORE?
         altText: ''
-        url: /info
+        url: /about
         showIcon: false
         icon: arrowRight
         iconPosition: right

@@ -1,6 +1,9 @@
 ---
 type: PostFeedLayout
 title: Blog Posts
+metaDescription: >-
+  Articles by Oswin Losper on automation testing, test maintenance, CI and
+  cross-browser testing.
 colors: colors-b
 postFeed:
   type: PostFeedSection

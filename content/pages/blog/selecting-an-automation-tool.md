@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/selecting-a-tool.jpg
   altText: Selecting an automation tool
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---

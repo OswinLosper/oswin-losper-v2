@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/why-your-automation-tests-are-failing.jpg
   altText: Why your automation tests are failing
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---

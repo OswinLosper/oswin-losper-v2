@@ -7,7 +7,7 @@ featuredImage:
   type: ImageBlock
   url: /images/automation-testing-types.jpg
   altText: Automation testing types
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-b
 author: content/data/team/Oswin.json
 ---
